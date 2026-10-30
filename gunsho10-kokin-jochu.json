@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kokin-jochu",
  "yomi": "こきんしゅうじょちゅう",
  "category": "注釈",
- "description": null,
+ "description": {
+  "kind": "注釈（古今集序）",
+  "era": "寿永2年（1183）12月",
+  "author": "顕昭",
+  "desc": "古今和歌集の仮名序・真名序を一句ずつ挙げて注した書。和漢の書を広く引いて語義を考証する。奥書に寿永2年の注、文治・建久の加点を記す。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -336,6 +341,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
